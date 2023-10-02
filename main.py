@@ -13,10 +13,10 @@ TERTIARY_COLOR = "#5C527F"
 
 
 # ------ Buttons and Labels placement ------
-up_image = PhotoImage(file=resource_path("up_arrow1.png"))
-down_image = PhotoImage(file=resource_path("down_arrow1.png"))
-right_image = PhotoImage(file=resource_path("right_arrow1.png"))
-left_image = PhotoImage(file=resource_path("left_arrow1.png"))
+up_image = PhotoImage(file="up_arrow1.png")
+down_image = PhotoImage(file="down_arrow1.png")
+right_image = PhotoImage(file="right_arrow1.png")
+left_image = PhotoImage(file="left_arrow1.png")
 
 
 

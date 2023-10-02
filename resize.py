@@ -93,7 +93,7 @@ def set_image(image):
 # ------ Image and image label attributes ------
 
 
-image = resource_path("default.bmp")
+image = "default.bmp"
 
 
 def update_image(img):
